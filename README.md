@@ -2,18 +2,25 @@
 My first repository.
 
 >HunterXHunter
+
 *Naruto*
+
 **BlackClover**
+
 # Hinomaru Sumo
 ## Overlord
 ### No Game No Life
+
 1. Mushouko Tensei
 2. Tensei Shitara Slime Datta Ken
 3. Tanya the Evil
+   
 - Gate
 - Blue Dragon
 - Is it wrong to pick up girls in a dungeon???
+  
 `The eminence in Shadow`
+
 ---Welcome to Demon School! Iruma-Kun
 
   
