@@ -1,6 +1,7 @@
 # appdev
 My first repository.
-> HunterXHunter
+
+>HunterXHunter
 *Naruto*
 **BlackClover**
 # Hinomaru Sumo
@@ -14,5 +15,10 @@ My first repository.
 - Is it wrong to pick up girls in a dungeon???
 `The eminence in Shadow`
 ---Welcome to Demon School! Iruma-Kun
+
+  
   [Tsukimichi: Moonlit Fantasy](https://www.crunchyroll.com/series/GZJH3D719/tsukimichi--moonlit-fantasy-)
+
+
+  
 ![51742545935aac3ab_0](https://github.com/HeavenlyChicken/appdev/assets/169522848/487c974a-9e1c-4c07-8454-e3c0f04415b9)
